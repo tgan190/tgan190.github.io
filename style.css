@@ -44,7 +44,7 @@ header.startup h1 {
 
 .btn-xl {
   padding: 1rem 2rem;
-  justify-content: center !important;
+  
 }
 
 .btn-primary {
@@ -58,7 +58,3 @@ header.startup h1 {
   cursor: pointer;
 }
 
-#mc-embedded-subscribe {
-  justify-content: center;
-}
-  
